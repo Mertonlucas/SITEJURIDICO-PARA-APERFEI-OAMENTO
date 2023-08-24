@@ -1,4 +1,4 @@
-# Portfólio Acadêmico ![github](https://github.com/Mertonlucas/TESTE/assets/126838077/5cd64d5c-268a-49cd-92b3-fd553e098afa)
+# Portfólio Acadêmico (https://github.com/Mertonlucas/TESTE/assets/126838077/5cd64d5c-268a-49cd-92b3-fd553e098afa)
 
 ## Bem-vindo ao meu Portfólio!
 

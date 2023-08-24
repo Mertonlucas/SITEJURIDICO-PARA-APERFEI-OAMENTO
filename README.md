@@ -4,7 +4,7 @@
 
 ## Bem-vindo ao meu Portfólio!
 
-Eu sou um acadêmico de Análise e Desenvolvimento de Sistemas na instituição de ensino superior UNIASSELVI. ![Uploading github.png…]()
+Eu sou um acadêmico de Análise e Desenvolvimento de Sistemas na instituição de ensino superior UNIASSELVI.
 
 Este repositório contém exemplos de projetos e habilidades que venho desenvolvendo ao longo do meu curso.
 

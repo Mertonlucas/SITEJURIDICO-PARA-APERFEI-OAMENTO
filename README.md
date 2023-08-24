@@ -4,7 +4,7 @@
 
 Eu sou um acadêmico de Análise e Desenvolvimento de Sistemas na instituição de ensino superior UNIASSELVI. Este repositório contém exemplos de projetos e habilidades que venho desenvolvendo ao longo do meu curso.
 
-![UNIASSELVI](_ngcontent-myi-c237)
+![UNIASSELVI]([_ngcontent-myi-c237](https://play-lh.googleusercontent.com/lxAibpROnBYS8UdEsiWmEVtBH798TbS3KyKev7KMgdM1YaV349DtjP2L2ckqw3-sPE8=w240-h480-rw))
 
 ## Tecnologias e Habilidades
 

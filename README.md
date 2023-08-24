@@ -1,5 +1,4 @@
-# Portfólio Acadêmico (<a href="https://www.flaticon.com/br/icones-gratis/github" title="github ícones">Github ícones criados por pictogramer - Flaticon</a>)
-
+# Portfólio Acadêmico ![git](https://cdn-icons-png.flaticon.com/128/1240/1240971.png)
 ## Bem-vindo ao meu Portfólio!
 
 Eu sou um acadêmico de Análise e Desenvolvimento de Sistemas na instituição de ensino superior UNIASSELVI. 

@@ -1,8 +1,10 @@
-# Portfólio Acadêmico (https://github.com/Mertonlucas/TESTE/assets/126838077/5cd64d5c-268a-49cd-92b3-fd553e098afa)
+# Portfólio Acadêmico ![github](https://github.com/Mertonlucas/TESTE/assets/126838077/adbdf775-4110-42c6-862c-02c70bc260a8)
+
 
 ## Bem-vindo ao meu Portfólio!
 
-Eu sou um acadêmico de Análise e Desenvolvimento de Sistemas na instituição de ensino superior UNIASSELVI. 
+Eu sou um acadêmico de Análise e Desenvolvimento de Sistemas na instituição de ensino superior UNIASSELVI. ![Uploading github.png…]()
+
 Este repositório contém exemplos de projetos e habilidades que venho desenvolvendo ao longo do meu curso.
 
 ![UNIASSELVI](https://play-lh.googleusercontent.com/lxAibpROnBYS8UdEsiWmEVtBH798TbS3KyKev7KMgdM1YaV349DtjP2L2ckqw3-sPE8=w240-h480-rw)

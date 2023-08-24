@@ -1,4 +1,4 @@
-# Portfólio Acadêmico (![image](https://github.com/Mertonlucas/TESTE/assets/126838077/806ced33-5004-4421-85e9-6f79eaf6561b)
+# Portfólio Acadêmico
 ## Bem-vindo ao meu Portfólio!
 
 Eu sou um acadêmico de Análise e Desenvolvimento de Sistemas na instituição de ensino superior UNIASSELVI. 

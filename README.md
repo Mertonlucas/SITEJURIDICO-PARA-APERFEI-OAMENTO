@@ -1,56 +1,37 @@
-# Portfólio Acadêmico 
 
 
+Este código HTML é a estrutura inicial de uma página da web para um escritório de advocacia chamado "Rafaela Carneiro Advogada". Ele inclui:
 
-##Bem-vindo ao meu Portfólio!!!
+1. **Cabeçalho da Página:**
+   - Inclui o título da página e uma ligação para uma folha de estilo externa (FontAwesome) para obter ícones.
 
-Eu sou um acadêmico de Análise e Desenvolvimento de Sistemas na instituição de ensino superior UNIASSELVI.
+2. **Estilos Embutidos:**
+   - Define os estilos de formatação para os elementos da página, como fontes, cores, margens e tamanhos.
 
-Este repositório contém exemplos de projetos e habilidades que venho desenvolvendo ao longo do meu curso.
+3. **Corpo da Página:**
+   - Inclui o cabeçalho da página com o nome do escritório.
+   - Contém um contêiner principal para o conteúdo da página.
 
+4. **Seção de Destaque ("Herói"):**
+   - Exibe uma mensagem enfatizada com título, descrição e botão de ação.
 
-## Tecnologias e Habilidades
+5. **Seção de Serviços:**
+   - Apresenta os serviços oferecidos pelo escritório de advocacia.
+   - Cada serviço tem uma imagem, um ícone, um título e uma descrição.
 
-### Linguagens de Programação
+6. **Barra Lateral:**
+   - Apresenta informações adicionais, incluindo um formulário de contato e um link para o formulário completo.
 
-- ![Python](https://img.shields.io/badge/Python-%233776AB?logo=python&logoColor=white)
-- ![Java](https://img.shields.io/badge/Java-%23ED8B00?logo=java&logoColor=white)
-- ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E?logo=javascript&logoColor=black)
-- ![TypeScript](https://img.shields.io/badge/TypeScript-%233178C6?logo=typescript&logoColor=white)
+7. **Guias de Contato:**
+   - Permitem que o usuário selecione entre as opções de contato (email, telefone, endereço).
 
-### Banco de Dados
+8. **Conteúdo de Contato:**
+   - Exibe as informações relevantes dependendo da guia de contato selecionada (email, telefone ou endereço).
 
-- ![MySQL](https://img.shields.io/badge/MySQL-%234479A1?logo=mysql&logoColor=white)
-- ![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248?logo=mongodb&logoColor=white)
+9. **Script JavaScript:**
+   - Controla o comportamento das guias de contato, alternando a guia ativa e exibindo o conteúdo apropriado.
 
-### Tecnologias Web
+10. **Links e Scripts Externos:**
+    - Inclui links para fontes externas necessárias, como a biblioteca FontAwesome para ícones.
 
-- ![Node.js](https://img.shields.io/badge/Node.js-%23339933?logo=node.js&logoColor=white)
-- ![Express](https://img.shields.io/badge/Express-%23000000?logo=express&logoColor=white)
-- ![NestJS](https://img.shields.io/badge/NestJS-%23E0234E?logo=nestjs&logoColor=white)
-- ![React](https://img.shields.io/badge/React-%2361DAFB?logo=react&logoColor=black)
-- ![Redux](https://img.shields.io/badge/Redux-%23764ABC?logo=redux&logoColor=white)
-
-### Princípios e Habilidades Avançadas
-
-- Princípios SOLID
-- Padrões de Projeto GOF (Design Patterns)
-- Testes Automatizados com Jest
-- Expressões Regulares (Regex)
-- Sistema de Autenticação com Session e JWT
-- Criação de API Rest com Node.js + Express + Sequelize
-- NestJS + Strapi + PostgreSQL (CSR, SSR, SSG, ISR)
-
-### Servidores e Implantação
-
-- Configuração de Servidor Linux (Ubuntu Server)
-- Configurações de Segurança (SSH, TLS/HTTPS)
-- Implantação de Aplicações Web
-
-## Contribuindo
-
-Sinta-se à vontade para explorar meus exemplos e projetos. Caso tenha sugestões ou melhorias, fique à vontade para abrir uma issue ou enviar um pull request!
-
-## Licença
-
-Este repositório está licenciado sob a Licença MIT - consulte o arquivo [LICENSE](LICENSE) para obter mais detalhes.
+O código completo define a estrutura visual e o comportamento interativo da página da web, apresentando informações sobre o escritório de advocacia e os serviços oferecidos.
